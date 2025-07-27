@@ -1,4 +1,4 @@
-# light Delay Prediction Using Machine Learning
+# Flight Delay Prediction Using Machine Learning
 
 ##  Overview
 This project predicts flight delays using machine learning models based on historical flight and weather data. Delays in air travel cause significant economic and operational challenges — this solution aims to proactively predict such delays to improve scheduling, resource planning, and customer satisfaction.
